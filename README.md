@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on JavaScript / React / SAPUI5.
 - 👯 I’m looking to collaborate on new UI Projects using React. 
-- 📫 How to reach me: dibyaranjanbhoi94@gmail.com
+- 📫 You can reach me at: dibyaranjanbhoi94@gmail.com
 
 <!--
 **DibyaRB/DibyaRB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
