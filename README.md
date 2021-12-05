@@ -10,6 +10,10 @@
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+### Find me On 💬
+
+[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@dibyarb&color=grey&logo=facebook&style=flat&logoColor=white&colorA=blue)](https://www.facebook.com/at.the.edge.of.insanity)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@dibya.rb&color=grey&logo=instagram&style=flat&logoColor=white&colorA=blue)](https://www.instagram.com/dibya.rb/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@dibya-ranjan-bhoi&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/dibya-ranjan-bhoi/) 
+
 <!--
 **DibyaRB/DibyaRB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
