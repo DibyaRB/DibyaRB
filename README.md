@@ -3,7 +3,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋
+### Hi there, I am Dibya Ranjan 👋
 - 🔭 I’m currently working on JavaScript / React / SAPUI5.
 - 👯 I’m looking to collaborate on new UI Projects using React. 
 - 📫 You can reach me at: dibyaranjanbhoi94@gmail.com
