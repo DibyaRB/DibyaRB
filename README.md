@@ -14,6 +14,13 @@
 
 [![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@dibyarb&color=grey&logo=facebook&style=flat&logoColor=white&colorA=blue)](https://www.facebook.com/at.the.edge.of.insanity)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@dibya.rb&color=grey&logo=instagram&style=flat&logoColor=white&colorA=blue)](https://www.instagram.com/dibya.rb/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@dibya-ranjan-bhoi&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/dibya-ranjan-bhoi/) 
 
+![Dibya's GitHub stats](https://github-readme-stats.vercel.app/api?username=DibyaRB&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+- Top languages 🌱
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DibyaRB)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **DibyaRB/DibyaRB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
