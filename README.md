@@ -3,6 +3,8 @@
  <h2 align="center">Profile</h2>
 </p>
 
+<p align="center">
+
 ### Hi there, I am Dibya Ranjan 👋
 - 🔭 I’m currently working on JavaScript / React / SAPUI5.
 - 👯 I’m looking to collaborate on new UI Projects using React. 
@@ -25,6 +27,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DibyaRB)](https://github.com/anuraghazra/github-readme-stats)
 
+ 
+ </p>
 
 <!--
 **DibyaRB/DibyaRB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
