@@ -29,7 +29,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DibyaRB)](https://github.com/anuraghazra/github-readme-stats)
  
- [![Current Streak (https://github-readme-streak-stats.herokuapp.com/?user=DibyaRB)]
 
  
  </p>
