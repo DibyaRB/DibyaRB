@@ -1,13 +1,3 @@
-<p align="center">
- <center>
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
-
- <h2>Profile</h2>
-   </center>
-</p>
-
-<p align="center">
-
 ### Hi there, I am Dibya Ranjan 👋
 - 🔭 I’m currently working on JavaScript / React / SAPUI5.
 - 👯 I’m looking to collaborate on new UI Projects using React. 
@@ -26,7 +16,19 @@
 
 [![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@dibyarb&color=grey&logo=facebook&style=flat&logoColor=white&colorA=blue)](https://www.facebook.com/at.the.edge.of.insanity)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@dibya.rb&color=grey&logo=instagram&style=flat&logoColor=white&colorA=blue)](https://www.instagram.com/dibya.rb/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@dibya-ranjan-bhoi&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/dibya-ranjan-bhoi/) 
 
-![Dibya's GitHub stats](https://github-readme-stats.vercel.app/api?username=DibyaRB&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+### Github Stats
+
+![](https://activity-graph.herokuapp.com/graph?username=DibyaRB&theme=react-dark&hide_border=true&area=true)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DibyaRB">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DibyaRB&count_private=true&show_icons=true&theme=light" alt="DibyaRB's github stats"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DibyaRB&layout=compact&theme=light"/>
+
+
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=DibyaRB" alt="devded" /> </p>
 
 
  
