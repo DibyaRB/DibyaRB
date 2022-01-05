@@ -1,7 +1,7 @@
 ### Hi there, I am Dibya Ranjan 👋
 - 🔭 I’m currently working on JavaScript / React / SAPUI5.
 - 👯 I’m looking to collaborate on new UI Projects using React. 
-- 📫 You can reach me at: dibyaranjanbhoi94@gmail.com
+- 📫 You can reach me at: dibyaranjanbhoi94@gmail.com .
 - 😄 Always looking for new opportunities to upskill myself!
 
 ### My skills 🚀
