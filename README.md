@@ -1,7 +1,7 @@
 ### Hi there, I am Dibya Ranjan 👋
 - 🔭 I’m currently working on JavaScript / React / LWC / Aura / SAPUI5.
 - 👯 I’m looking to collaborate on new UI Projects using React. 
-- 📫 You can reach me at: dibyaranjanbhoi94@gmail.com .
+- 📫 You can reach me at: dibyabhoidibya@gmail.com .
 - 😄 Always looking for new opportunities to upskill myself!
 - ⚡ Currently working for Salesforce CMS.
 
