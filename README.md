@@ -4,6 +4,7 @@
 - 📫 You can reach me at: dibyabhoidibya@gmail.com .
 - 😄 Always looking for new opportunities to upskill myself!
 - ⚡ Currently working for Salesforce CMS.
+- 💬 1 Commit a day for 2024!
 
 ### My skills 🚀
 
