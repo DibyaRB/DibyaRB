@@ -22,13 +22,8 @@
 
 ### Github Stats
 
-![](https://activity-graph.herokuapp.com/graph?username=DibyaRB&theme=react-dark&hide_border=true&area=true)
+![1716698376894](https://github.com/DibyaRB/DibyaRB/assets/11484189/343c1f4c-a582-4cea-b285-38401acddaad)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DibyaRB">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DibyaRB&count_private=true&show_icons=true&theme=light" alt="DibyaRB's github stats"/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DibyaRB&layout=compact&theme=light"/>
 
 
 <br>
